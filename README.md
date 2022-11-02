@@ -32,7 +32,7 @@ annotation {
     "lane": 2, 
     "stopline": 3,
     "crosswalk": 4,
-    "arrow": 5
+    "arrow": 7
 }
 
 # Data Download
